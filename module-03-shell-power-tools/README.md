@@ -1,27 +1,27 @@
 # Module 3 · Shell Power Tools
 
-> **Goal:** stop running commands one at a time and start composing them - pipe programs together, slice and search text, and automate the result as shell scripts.
+> **Goal:** stop running commands one at a time and start composing them - pipe programs together, search and reshape any text, make the shell your own, and automate the result as scripts.
 
-## Learning objectives
+This is the module where the command line starts paying rent. Lessons 1-3 build the composition skills (pipes → searching → transforming) and are best in order; lessons 4-5 (configuring your shell, scripting) round it out and lean on everything before them.
 
-- Redirect input and output: `>`, `>>`, `<`, `2>`, and pipes `|`
-- Search anything with `grep` and find files with `find`
-- Transform text with `sort`, `uniq`, `cut`, `wc`, `sed`, and a taste of `awk`
-- Understand environment variables, `$PATH`, `.bashrc`, and aliases
-- Write a real shell script: shebang, variables, `if`, loops, exit codes
-- Use command history, `Ctrl+R` search, and keyboard shortcuts to fly
+## Lessons
 
-## Planned lessons
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | [Pipes and redirection](01-pipes-and-redirection.md) | Route stdout/stderr anywhere and chain small tools into answers |
+| 2 | [grep and find](02-grep-and-find.md) | Find any text in any file, and any file on the system - plus a first dose of regex |
+| 3 | [Text surgery](03-text-surgery.md) | Slice, count, rank, and rewrite text with sort, uniq, cut, sed, and awk |
+| 4 | [The shell as a home](04-the-shell-as-a-home.md) | $PATH, variables, .bashrc, aliases, and history tricks that double your speed |
+| 5 | [Your first shell scripts](05-your-first-shell-scripts.md) | Turn pipelines into named commands with arguments, ifs, loops, and safety rails |
 
-1. Pipes and redirection - the Unix philosophy in action
-2. grep and find - searching file contents and the filesystem
-3. Text surgery - sort, uniq, cut, sed, awk
-4. The shell as a home - variables, $PATH, .bashrc, aliases
-5. Your first shell scripts
+## Before you start
 
-> [!NOTE]
-> **Not written yet** - ask Claude to "write module 3" when you get here.
+- You need [Module 1](../module-01-first-contact/README.md) throughout. [Module 2](../module-02-users-and-permissions/README.md) helps (chmod appears when scripts arrive, and some examples read /etc/passwd with module-2 eyes) but isn't a hard requirement - the map shows them as parallel tracks.
+- Exercises keep collecting in `~/linux-course/exercises/`, and from lesson 4 you'll build a personal `~/bin` that the rest of the course assumes exists.
+
+> [!TIP]
+> This module is dense with flags. Don't memorize - do the exercises, keep your winning one-liners in the exercises files, and let `Ctrl+R` (lesson 4) be your memory.
 
 ---
 
-⬅️ [Module 1: First Contact](../module-01-first-contact/README.md) · 🗺️ [Course map](../README.md)
+⬅️ [Module 2: Users & Permissions](../module-02-users-and-permissions/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: Pipes and redirection](01-pipes-and-redirection.md)
