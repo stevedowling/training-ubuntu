@@ -38,7 +38,7 @@ Modules 2 and 3 are independent - do them in either order. Modules 6 and 7 are a
 | # | Module | What you'll be able to do | Status |
 |---|--------|---------------------------|--------|
 | 1 | [First Contact](module-01-first-contact/README.md) | Explain what Linux is made of, move around the filesystem, manage files, and find help without leaving the terminal | ✅ written |
-| 2 | [Users & Permissions](module-02-users-and-permissions/README.md) | Read and set ownership and permissions, use sudo safely, understand links and inodes | 📝 planned |
+| 2 | [Users & Permissions](module-02-users-and-permissions/README.md) | Read and set ownership and permissions, use sudo safely, understand links and inodes | ✅ written |
 | 3 | [Shell Power Tools](module-03-shell-power-tools/README.md) | Chain commands with pipes, search and transform text, write your first shell scripts | 📝 planned |
 | 4 | [Processes & the Kernel](module-04-processes-and-the-kernel/README.md) | Inspect and control running processes, read /proc, watch programs talk to the kernel | 📝 planned |
 | 5 | [Software & Packages](module-05-software-and-packages/README.md) | Install, upgrade, and investigate software with apt, dpkg, and snap | 📝 planned |
