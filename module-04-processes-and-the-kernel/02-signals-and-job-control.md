@@ -165,4 +165,4 @@ $ pgrep -a sleep && ps -o ppid= -p "$(pgrep -n sleep)"   # alive; parent is 1 (o
 
 ---
 
-⬅️ [Previous: What a process is](01-what-a-process-is.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: /proc and /sys](03-proc-and-sys.md)
+⬅️ [Previous: What a process is](01-what-a-process-is.md) · 🏠 [Course home](../README.md) · ➡️ [Next: /proc and /sys](03-proc-and-sys.md)

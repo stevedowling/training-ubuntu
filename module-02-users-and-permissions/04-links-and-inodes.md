@@ -173,4 +173,4 @@ $ find /usr/bin -inum $(stat -c %i /usr/bin/nano)   # ...its sibling name (rnano
 
 ---
 
-⬅️ [Previous: sudo - borrowing root safely](03-sudo-borrowing-root-safely.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Shell Power Tools](../module-03-shell-power-tools/README.md)
+⬅️ [Previous: sudo - borrowing root safely](03-sudo-borrowing-root-safely.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Shell Power Tools](../module-03-shell-power-tools/README.md)

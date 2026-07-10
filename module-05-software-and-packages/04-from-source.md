@@ -148,4 +148,4 @@ Debrief answer shape: you did dependency-finding (build-essential), file placeme
 
 ---
 
-⬅️ [Previous: Snaps and other channels](03-snaps-and-other-channels.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Boot, systemd & Logs](../module-06-boot-systemd-and-logs/README.md)
+⬅️ [Previous: Snaps and other channels](03-snaps-and-other-channels.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Boot, systemd & Logs](../module-06-boot-systemd-and-logs/README.md)

@@ -172,4 +172,4 @@ $ find ~ -type f -perm -o+w                                   # 6: silence is th
 
 ---
 
-⬅️ [Previous: Pipes and redirection](01-pipes-and-redirection.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Text surgery](03-text-surgery.md)
+⬅️ [Previous: Pipes and redirection](01-pipes-and-redirection.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Text surgery](03-text-surgery.md)

@@ -2,7 +2,7 @@
 
 > **Goal:** get comfortable in a terminal - know what you're actually talking to when you type a command, move around the filesystem confidently, manage files, and find answers without leaving the shell.
 
-Everything else in this course builds on these four lessons. If you already live in a terminal, skim lesson 1 anyway - it covers what changed in Ubuntu 26.04 - then jump ahead via the [course map](../README.md).
+Everything else in this course builds on these four lessons. If you already live in a terminal, skim lesson 1 anyway - it covers what changed in Ubuntu 26.04 - then jump ahead via the [course home](../README.md).
 
 ## Lessons
 
@@ -26,4 +26,4 @@ You need a terminal on Ubuntu 26.04 (or any recent Ubuntu). Any of these works:
 
 ---
 
-🗺️ [Course map](../README.md) · ➡️ [Start: What Linux actually is](01-what-linux-actually-is.md)
+🏠 [Course home](../README.md) · ➡️ [Start: What Linux actually is](01-what-linux-actually-is.md)

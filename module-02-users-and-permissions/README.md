@@ -24,4 +24,4 @@ This module is where "Permission denied" stops being an obstacle and becomes inf
 
 ---
 
-⬅️ [Module 1: First Contact](../module-01-first-contact/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: Users, groups, and root](01-users-groups-and-root.md)
+⬅️ [Module 1: First Contact](../module-01-first-contact/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: Users, groups, and root](01-users-groups-and-root.md)

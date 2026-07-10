@@ -166,4 +166,4 @@ $ ssh labbox 'df -h | head -3'                        # 6
 
 ---
 
-⬅️ [Previous: The network stack](01-the-network-stack.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Disks and filesystems](03-disks-and-filesystems.md)
+⬅️ [Previous: The network stack](01-the-network-stack.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Disks and filesystems](03-disks-and-filesystems.md)

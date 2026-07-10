@@ -164,4 +164,4 @@ $ sudo sysctl vm.swappiness=60
 
 ---
 
-⬅️ [Previous: Signals and job control](02-signals-and-job-control.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Syscalls and strace](04-syscalls-and-strace.md)
+⬅️ [Previous: Signals and job control](02-signals-and-job-control.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Syscalls and strace](04-syscalls-and-strace.md)

@@ -137,4 +137,4 @@ Step 2: inside `man ls`, type `/modification` and press `n` until you land on a 
 
 ---
 
-⬅️ [Previous: Working with files](03-working-with-files.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Users & Permissions](../module-02-users-and-permissions/README.md)
+⬅️ [Previous: Working with files](03-working-with-files.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Users & Permissions](../module-02-users-and-permissions/README.md)

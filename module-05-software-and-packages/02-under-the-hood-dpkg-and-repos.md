@@ -169,4 +169,4 @@ $ dpkg -V coreutils && echo intact                 # 6
 
 ---
 
-⬅️ [Previous: apt essentials](01-apt-essentials.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Snaps and other channels](03-snaps-and-other-channels.md)
+⬅️ [Previous: apt essentials](01-apt-essentials.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Snaps and other channels](03-snaps-and-other-channels.md)

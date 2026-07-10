@@ -24,4 +24,4 @@ This is the module where the course goes below the command line. It cashes in pr
 
 ---
 
-⬅️ [Module 3: Shell Power Tools](../module-03-shell-power-tools/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: What a process is](01-what-a-process-is.md)
+⬅️ [Module 3: Shell Power Tools](../module-03-shell-power-tools/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: What a process is](01-what-a-process-is.md)

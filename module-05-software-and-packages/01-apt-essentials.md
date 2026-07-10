@@ -144,4 +144,4 @@ $ ls -lt /var/log/unattended-upgrades/ | head -3
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Under the hood - dpkg, .debs, repositories](02-under-the-hood-dpkg-and-repos.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Under the hood - dpkg, .debs, repositories](02-under-the-hood-dpkg-and-repos.md)

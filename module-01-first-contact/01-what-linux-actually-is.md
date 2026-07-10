@@ -150,4 +150,4 @@ Exact numbers will differ - what matters is knowing which command answers which 
 
 ---
 
-🗺️ [Course map](../README.md) · ➡️ [Next: Navigating the filesystem](02-navigating-the-filesystem.md)
+🏠 [Course home](../README.md) · ➡️ [Next: Navigating the filesystem](02-navigating-the-filesystem.md)

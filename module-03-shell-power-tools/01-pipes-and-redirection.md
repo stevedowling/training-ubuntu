@@ -162,4 +162,4 @@ $ find /var/log -name syslog -size +10M | grep -q . && echo "syslog is big"   # 
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: grep and find](02-grep-and-find.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: grep and find](02-grep-and-find.md)

@@ -183,4 +183,4 @@ Step 4 answers: cron output lands wherever *you* redirected (or vanishes into ma
 
 ---
 
-⬅️ [Previous: journald](03-journald.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Networking & Storage](../module-07-networking-and-storage/README.md)
+⬅️ [Previous: journald](03-journald.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Networking & Storage](../module-07-networking-and-storage/README.md)

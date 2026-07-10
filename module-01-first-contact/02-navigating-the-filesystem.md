@@ -171,4 +171,4 @@ $ ls /usr/bin | wc -l               # 5: usually 1500-2500 on desktop Ubuntu
 
 ---
 
-⬅️ [Previous: What Linux actually is](01-what-linux-actually-is.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Working with files](03-working-with-files.md)
+⬅️ [Previous: What Linux actually is](01-what-linux-actually-is.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Working with files](03-working-with-files.md)

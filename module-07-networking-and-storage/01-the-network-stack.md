@@ -166,4 +166,4 @@ Step 6: (a) rung 2-3 - address/gateway; `ip -br addr` (a 169.254.x.x address mea
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: SSH - remote work done right](02-ssh.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: SSH - remote work done right](02-ssh.md)

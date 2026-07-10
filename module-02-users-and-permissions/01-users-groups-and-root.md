@@ -180,4 +180,4 @@ lab can't read the log because syslog is readable by owner and group `adm` only,
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Reading and setting permissions](02-reading-and-setting-permissions.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Reading and setting permissions](02-reading-and-setting-permissions.md)

@@ -143,4 +143,4 @@ $ systemctl list-dependencies graphical.target --no-pager | head   # gdm.service
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: systemd and services](02-systemd-and-services.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: systemd and services](02-systemd-and-services.md)

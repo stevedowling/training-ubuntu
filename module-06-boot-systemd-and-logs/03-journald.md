@@ -162,4 +162,4 @@ $ sudo journalctl --vacuum-time=14d && journalctl --disk-usage
 
 ---
 
-⬅️ [Previous: systemd and services](02-systemd-and-services.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Timers and cron](04-timers-and-cron.md)
+⬅️ [Previous: systemd and services](02-systemd-and-services.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Timers and cron](04-timers-and-cron.md)

@@ -24,4 +24,4 @@ The final module, and the most operational: these four lessons are the ones you'
 
 ---
 
-⬅️ [Module 6: Boot, systemd & Logs](../module-06-boot-systemd-and-logs/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: The network stack](01-the-network-stack.md)
+⬅️ [Module 6: Boot, systemd & Logs](../module-06-boot-systemd-and-logs/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: The network stack](01-the-network-stack.md)

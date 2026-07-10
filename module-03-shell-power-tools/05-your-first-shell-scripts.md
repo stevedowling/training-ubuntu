@@ -225,4 +225,4 @@ $ shellcheck ~/bin/organize && echo clean
 
 ---
 
-⬅️ [Previous: The shell as a home](04-the-shell-as-a-home.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Processes & the Kernel](../module-04-processes-and-the-kernel/README.md)
+⬅️ [Previous: The shell as a home](04-the-shell-as-a-home.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Processes & the Kernel](../module-04-processes-and-the-kernel/README.md)

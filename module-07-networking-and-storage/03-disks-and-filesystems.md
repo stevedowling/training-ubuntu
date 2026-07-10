@@ -156,4 +156,4 @@ $ sudo umount /mnt/lab && rm ~/lab-disk.img && sudo rmdir /mnt/lab   # 7
 
 ---
 
-⬅️ [Previous: SSH](02-ssh.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Space and growth](04-space-and-growth.md)
+⬅️ [Previous: SSH](02-ssh.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Space and growth](04-space-and-growth.md)

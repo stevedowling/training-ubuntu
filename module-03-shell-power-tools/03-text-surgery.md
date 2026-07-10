@@ -135,4 +135,4 @@ $ sed -e 's/=/: /' -e 's/"//g' /etc/os-release                           # 5
 
 ---
 
-⬅️ [Previous: grep and find](02-grep-and-find.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: The shell as a home](04-the-shell-as-a-home.md)
+⬅️ [Previous: grep and find](02-grep-and-find.md) · 🏠 [Course home](../README.md) · ➡️ [Next: The shell as a home](04-the-shell-as-a-home.md)

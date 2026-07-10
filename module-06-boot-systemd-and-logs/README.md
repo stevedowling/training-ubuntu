@@ -24,4 +24,4 @@ This is the operations module: module 4 taught you to see processes; this one te
 
 ---
 
-⬅️ [Module 4: Processes & the Kernel](../module-04-processes-and-the-kernel/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: From power button to login](01-from-power-button-to-login.md)
+⬅️ [Module 4: Processes & the Kernel](../module-04-processes-and-the-kernel/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: From power button to login](01-from-power-button-to-login.md)

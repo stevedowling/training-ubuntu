@@ -7,43 +7,20 @@ Built for Ubuntu 26.04 LTS "Resolute Raccoon" (Linux kernel 7.0), but almost eve
 ## How to use this course
 
 - Work through it in a terminal on a real or virtual Ubuntu 26.04 machine. Reading alone will not stick - every lesson ends with a hands-on exercise.
-- You do not have to go in order. The map below shows what depends on what: follow the arrows for the guided path, or jump to whatever pulls you.
+- You do not have to go in order. The "Builds on" column shows each module's prerequisites: modules 2 and 3 can be done in either order, and so can 6 and 7.
 - Tick off modules in the progress tracker as you finish them (edit this file - the checkboxes are real).
-
-## Course map
-
-```mermaid
-flowchart TD
-    M1["1 · First Contact"]
-    M2["2 · Users & Permissions"]
-    M3["3 · Shell Power Tools"]
-    M4["4 · Processes & the Kernel"]
-    M5["5 · Software & Packages"]
-    M6["6 · Boot, systemd & Logs"]
-    M7["7 · Networking & Storage"]
-    M1 --> M2
-    M1 --> M3
-    M2 --> M4
-    M3 --> M4
-    M2 --> M5
-    M4 --> M6
-    M5 --> M6
-    M4 --> M7
-```
-
-Modules 2 and 3 are independent - do them in either order. Modules 6 and 7 are also independent of each other.
 
 ## Modules
 
-| # | Module | What you'll be able to do | Status |
-|---|--------|---------------------------|--------|
-| 1 | [First Contact](module-01-first-contact/README.md) | Explain what Linux is made of, move around the filesystem, manage files, and find help without leaving the terminal | ✅ written |
-| 2 | [Users & Permissions](module-02-users-and-permissions/README.md) | Read and set ownership and permissions, use sudo safely, understand links and inodes | ✅ written |
-| 3 | [Shell Power Tools](module-03-shell-power-tools/README.md) | Chain commands with pipes, search and transform text, write your first shell scripts | ✅ written |
-| 4 | [Processes & the Kernel](module-04-processes-and-the-kernel/README.md) | Inspect and control running processes, read /proc, watch programs talk to the kernel | ✅ written |
-| 5 | [Software & Packages](module-05-software-and-packages/README.md) | Install, upgrade, and investigate software with apt, dpkg, and snap | ✅ written |
-| 6 | [Boot, systemd & Logs](module-06-boot-systemd-and-logs/README.md) | Trace the boot process, manage services and timers, hunt through logs with journalctl | ✅ written |
-| 7 | [Networking & Storage](module-07-networking-and-storage/README.md) | Diagnose network problems, use SSH like a pro, manage disks, filesystems, and mounts | ✅ written |
+| # | Module | What you'll be able to do | Builds on |
+|---|--------|---------------------------|-----------|
+| 1 | [First Contact](module-01-first-contact/README.md) | Explain what Linux is made of, move around the filesystem, manage files, and find help without leaving the terminal | - |
+| 2 | [Users & Permissions](module-02-users-and-permissions/README.md) | Read and set ownership and permissions, use sudo safely, understand links and inodes | 1 |
+| 3 | [Shell Power Tools](module-03-shell-power-tools/README.md) | Chain commands with pipes, search and transform text, write your first shell scripts | 1 |
+| 4 | [Processes & the Kernel](module-04-processes-and-the-kernel/README.md) | Inspect and control running processes, read /proc, watch programs talk to the kernel | 2, 3 |
+| 5 | [Software & Packages](module-05-software-and-packages/README.md) | Install, upgrade, and investigate software with apt, dpkg, and snap | 2 |
+| 6 | [Boot, systemd & Logs](module-06-boot-systemd-and-logs/README.md) | Trace the boot process, manage services and timers, hunt through logs with journalctl | 4, 5 |
+| 7 | [Networking & Storage](module-07-networking-and-storage/README.md) | Diagnose network problems, use SSH like a pro, manage disks, filesystems, and mounts | 4, 6 |
 
 ## Progress tracker
 

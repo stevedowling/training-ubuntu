@@ -170,4 +170,4 @@ $ strace -e trace=%file ls 2>&1 | grep -i color  # 6: no file - the palette come
 
 ---
 
-⬅️ [Previous: /proc and /sys](03-proc-and-sys.md) · 🗺️ [Course map](../README.md) · ➡️ Next module: [Software & Packages](../module-05-software-and-packages/README.md)
+⬅️ [Previous: /proc and /sys](03-proc-and-sys.md) · 🏠 [Course home](../README.md) · ➡️ Next module: [Software & Packages](../module-05-software-and-packages/README.md)

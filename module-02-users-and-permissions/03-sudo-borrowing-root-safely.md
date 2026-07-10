@@ -176,4 +176,4 @@ Note the refusal in step 4b: the sudoers match is on the exact command. `apt upd
 
 ---
 
-⬅️ [Previous: Reading and setting permissions](02-reading-and-setting-permissions.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Links and inodes](04-links-and-inodes.md)
+⬅️ [Previous: Reading and setting permissions](02-reading-and-setting-permissions.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Links and inodes](04-links-and-inodes.md)

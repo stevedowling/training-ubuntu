@@ -183,4 +183,4 @@ Step 5 leaves no transcript - if `cd` + `Alt+.` landed you in `/tmp/deep/nested/
 
 ---
 
-⬅️ [Previous: Text surgery](03-text-surgery.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Your first shell scripts](05-your-first-shell-scripts.md)
+⬅️ [Previous: Text surgery](03-text-surgery.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Your first shell scripts](05-your-first-shell-scripts.md)

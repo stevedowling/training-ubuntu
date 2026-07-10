@@ -155,4 +155,4 @@ Step 6: see the hint - reasoning shown beats any particular answer.
 
 ---
 
-⬅️ [Previous: Under the hood](02-under-the-hood-dpkg-and-repos.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: From source](04-from-source.md)
+⬅️ [Previous: Under the hood](02-under-the-hood-dpkg-and-repos.md) · 🏠 [Course home](../README.md) · ➡️ [Next: From source](04-from-source.md)

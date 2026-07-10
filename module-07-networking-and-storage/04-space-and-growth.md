@@ -160,6 +160,6 @@ $ rm ~/pv1.img ~/pv2.img && sudo rmdir /mnt/lvmlab
 
 ## 🎓 That's the course
 
-You've gone from "what is a terminal" to reading boot chains, tracing syscalls, writing services, and growing filesystems live. The [course map](../README.md) shows everything you've covered - tick the last box in the progress tracker. Where to next: the further-reading links you skipped, a VPS of your own to run, or simply six months of using this instead of the GUI. The command line rewards mileage.
+You've gone from "what is a terminal" to reading boot chains, tracing syscalls, writing services, and growing filesystems live. The [course home](../README.md) shows everything you've covered - tick the last box in the progress tracker. Where to next: the further-reading links you skipped, a VPS of your own to run, or simply six months of using this instead of the GUI. The command line rewards mileage.
 
-⬅️ [Previous: Disks and filesystems](03-disks-and-filesystems.md) · 🗺️ [Course map](../README.md)
+⬅️ [Previous: Disks and filesystems](03-disks-and-filesystems.md) · 🏠 [Course home](../README.md)

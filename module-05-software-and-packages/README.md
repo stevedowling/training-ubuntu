@@ -24,4 +24,4 @@ The module has an arc: lesson 1 is the daily practice, lesson 2 opens the machin
 
 ---
 
-⬅️ [Module 2: Users & Permissions](../module-02-users-and-permissions/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: apt essentials](01-apt-essentials.md)
+⬅️ [Module 2: Users & Permissions](../module-02-users-and-permissions/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: apt essentials](01-apt-essentials.md)

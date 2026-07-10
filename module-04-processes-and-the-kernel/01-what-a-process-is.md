@@ -146,4 +146,4 @@ $ uptime && nproc                                 # 5: "load 0.31 on 8 cores = ~
 
 ---
 
-⬅️ [Module home](README.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Signals and job control](02-signals-and-job-control.md)
+⬅️ [Module home](README.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Signals and job control](02-signals-and-job-control.md)

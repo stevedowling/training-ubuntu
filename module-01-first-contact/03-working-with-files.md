@@ -149,4 +149,4 @@ identity.txt  note-1.txt  note-2.txt  note-final.txt
 
 ---
 
-⬅️ [Previous: Navigating the filesystem](02-navigating-the-filesystem.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: Getting help](04-getting-help.md)
+⬅️ [Previous: Navigating the filesystem](02-navigating-the-filesystem.md) · 🏠 [Course home](../README.md) · ➡️ [Next: Getting help](04-getting-help.md)

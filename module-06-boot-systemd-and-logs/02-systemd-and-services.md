@@ -200,4 +200,4 @@ $ systemctl status heartbeat                          # Unit heartbeat.service c
 
 ---
 
-⬅️ [Previous: From power button to login](01-from-power-button-to-login.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: journald - one log to rule them all](03-journald.md)
+⬅️ [Previous: From power button to login](01-from-power-button-to-login.md) · 🏠 [Course home](../README.md) · ➡️ [Next: journald - one log to rule them all](03-journald.md)

@@ -24,4 +24,4 @@ This is the module where the command line starts paying rent. Lessons 1-3 build 
 
 ---
 
-⬅️ [Module 2: Users & Permissions](../module-02-users-and-permissions/README.md) · 🗺️ [Course map](../README.md) · ➡️ [Start: Pipes and redirection](01-pipes-and-redirection.md)
+⬅️ [Module 2: Users & Permissions](../module-02-users-and-permissions/README.md) · 🏠 [Course home](../README.md) · ➡️ [Start: Pipes and redirection](01-pipes-and-redirection.md)

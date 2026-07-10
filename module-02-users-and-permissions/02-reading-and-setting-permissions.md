@@ -168,4 +168,4 @@ $ chmod -R u+rwX,g=rX,o= .              # 5: X gives x to dirs (and existing exe
 
 ---
 
-⬅️ [Previous: Users, groups, and root](01-users-groups-and-root.md) · 🗺️ [Course map](../README.md) · ➡️ [Next: sudo - borrowing root safely](03-sudo-borrowing-root-safely.md)
+⬅️ [Previous: Users, groups, and root](01-users-groups-and-root.md) · 🏠 [Course home](../README.md) · ➡️ [Next: sudo - borrowing root safely](03-sudo-borrowing-root-safely.md)
